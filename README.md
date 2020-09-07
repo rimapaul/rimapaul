@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am Rima 👋
 
+I'm currently working as a Dev Degree intern/frontend intern at Shopify, and working towards obtaining a BSc in computer science. 🙂
 <!--
 **rimapaul/rimapaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
